@@ -1,7 +1,8 @@
 # Pointer Exercises – Chapter 9  
 ### README / Instructions
 
-Do the same steps as in the previous assignments, where you download the project as a zip file and extract it.
+Download the project as a zip file and extract it. Please read these instructions. Do not refer to previous assignments.
+READ THESE ASSIGNMENTS
 
 This lab contains a set of practice exercises to help you understand **pointers, pointer arithmetic, const correctness, and passing pointers to functions** in C++.
 
